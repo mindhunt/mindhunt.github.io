@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Smarterhome</title>
+    <link>http://smarterhome.blog/post/</link>
+    <description>Recent content in Posts on Smarterhome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@smarterhome.blog (mindhunt)</managingEditor>
+    <webMaster>mail@smarterhome.blog (mindhunt)</webMaster>
+    <copyright>(CC BY 4.0) 2017 mindhunt</copyright>
+    <lastBuildDate>Mon, 13 Nov 2017 10:02:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://smarterhome.blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firstpost</title>
+      <link>http://smarterhome.blog/2017/11/13/firstpost/</link>
+      <pubDate>Mon, 13 Nov 2017 10:02:46 +0000</pubDate>
+      <author>mail@smarterhome.blog (mindhunt)</author>
+      <guid>http://smarterhome.blog/2017/11/13/firstpost/</guid>
+      <description> post  </description>
+    </item>
+    
+  </channel>
+</rss>

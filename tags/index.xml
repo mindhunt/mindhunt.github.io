@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Smarterhome</title>
+    <link>http://smarterhome.blog/tags/</link>
+    <description>Recent content in Tags on Smarterhome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>mail@smarterhome.blog (mindhunt)</managingEditor>
+    <webMaster>mail@smarterhome.blog (mindhunt)</webMaster>
+    <copyright>(CC BY 4.0) 2017 mindhunt</copyright>
+    
+	<atom:link href="http://smarterhome.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
